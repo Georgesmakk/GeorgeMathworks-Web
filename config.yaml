@@ -54,8 +54,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
-      & Developed by [Gethugothemes](https://gethugothemes.com)
+    copyright: Copyright &copy; 2021 Powered by [GeorgeMathWorks](https://georgemathworksweb.netlify.app/)
     home: Home
     languageCode: en-us
     languageName: En
@@ -88,8 +87,7 @@ Languages:
     weight: 1
   fr:
     contentDir: content/french
-    copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
-      & Developed by [Gethugothemes](https://gethugothemes.com)
+    copyright: Copyright &copy; 2021 Powered by [GeorgeMathWorks](https://georgemathworksweb.netlify.app/)
     home: Accueil
     languageCode: fr-fr
     languageName: Fr
