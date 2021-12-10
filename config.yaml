@@ -1,5 +1,5 @@
-baseURL: https://examplesite.com
-title: Meghna
+baseURL: https://georgemathworksweb.netlify.app/
+title: GeorgeMathWorks
 theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
