@@ -44,7 +44,7 @@ params:
     - icon: ti-twitter-alt
       link: '#'
     - icon: ti-youtube
-      link: '#'
+      link: 'https://www.youtube.com/channel/UCgRIsTea1tOuRdtXSfE2JXQ'
     - icon: ti-linkedin
       link: '#'
     - icon: ti-dribbble
@@ -69,8 +69,8 @@ Languages:
         - name: portfolio
           url: '#portfolio'
           weight: 3
-        - name: team
-          url: '#team'
+        - name: Youtube
+          url: https://www.youtube.com/channel/UCgRIsTea1tOuRdtXSfE2JXQ
           weight: 4
         - name: pricing
           url: '#pricing'
@@ -81,16 +81,17 @@ Languages:
         - name: contact
           url: '#contact'
           weight: 7
-        - name: themefisher
-          url: https://themefisher.com/
-          weight: 8
+        - name: Enquiries
+          url: https://wa.link/6c02rd
+        - name: CustomerDetails
+          url: https://forms.gle/WDPrv8JkR8JaekC16
     weight: 1
-  fr:
-    contentDir: content/french
+  en:
+    contentDir: content/english
     copyright: Copyright &copy; 2021 Powered by [GeorgeMathWorks](https://georgemathworksweb.netlify.app/)
     home: Accueil
-    languageCode: fr-fr
-    languageName: Fr
+    languageCode: en-us
+    languageName: En
     menu:
       main:
         - name: sur
@@ -114,7 +115,4 @@ Languages:
         - name: contact
           url: '#contact'
           weight: 7
-        - name: themefisher
-          url: https://themefisher.com/
-          weight: 8
     weight: 2
