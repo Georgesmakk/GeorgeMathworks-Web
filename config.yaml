@@ -6,13 +6,13 @@ summaryLength: '15'
 disqusShortname: ''
 disableLanguages: []
 params:
-  author: Themefisher
+  author: GeorgeMathWorks
   cookies:
     enable: no
     expire_days: 2
   description: Responsive Multipurpose Parallax Hugo Template
   google_analytics_id: ''
-  logo: images/logo.png
+  logo: images/logo4.png
   map:
     enable: no
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
@@ -37,7 +37,7 @@ params:
   post_share: yes
   preloader:
     enable: no
-    preloader: images/logo.png
+    preloader: images/logo4.png
   social:
     - icon: ti-facebook
       link: '#'
