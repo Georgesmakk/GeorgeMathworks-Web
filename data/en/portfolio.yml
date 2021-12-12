@@ -4,73 +4,73 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Trigonometry
+      image : images/portfolio/kingTrig.PNG
+      image_webp : images/portfolio/kingTrig.PNG
+      categories : ["MATHEMATICS TUTORIALS"]
+      content : Mathematics being the backbone of all science,GeorgeMathWorks provides tutorials and intervention methods to ensure that students understand the subject.
       link : "https://themefisher.com"
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Data Analytics
+      image : images/portfolio/panels.PNG
+      image_webp : images/portfolio/panels.PNG
+      categories : ["DATA ANALYTICS"]
+      content : Numbers confess
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Analytical Geometry
+      image : images/portfolio/ana1.PNG
+      image_webp : images/portfolio/ana1.PNG
+      categories : ["MATHEMATICS TUTORIALS"]
+      content : CLICK HERE:Analytical Geometry exaplained.
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : SEQUENCES AND SERIES
+      image : images/portfolio/series1.PNG
+      image_webp : images/portfolio/series1.PNG
+      categories : ["MATHEMATICS TUTORIALS"]
+      content :  CLICK HERE:Sequences and Series explained.
+      link : https://youtu.be/7S9TCWWeItk
       
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : SEQUENCES AND SERIES
+      image : images/portfolio/series1.PNG
+      image_webp : images/portfolio/series1.PNG
+      categories : ["MATHEMATICS TUTORIALS"]
+      content : CLICK HERE:Qudratic Sequences and Series explained. 
+      link : https://youtu.be/7S9TCWWeItk
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : GEORGEMATHWORKS HIGHLIGHTS
+      image : images/portfolio/georgeint.PNG
+      image_webp : images/portfolio/georgeint.PNG
+      categories : ["ANNIMATIONS"]
+      content : We design Quality Annimations
+      link : https://youtu.be/BeZJd6jIR20
       
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : LAWS OF EXPONENTS
+      image : images/portfolio/exponents.PNG
+      image_webp : images/portfolio/exponents.PNG
+      categories : ["MATHEMATICS TUTORIALS"]
+      content : CLICK HERE.Laws of exponents explained.
+      link : https://youtu.be/hLg151BEKLE
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : Design
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["ANNIMATIONS","DEVELOPMENT"]
+      content : We are here for you
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Design
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["ANNIMATIONS", "DEVELOPMENT"]
+      content : We are here for you
       link : "#"
