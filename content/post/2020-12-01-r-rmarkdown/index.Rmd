@@ -8,6 +8,7 @@ tags: ["R Markdown", "plot", "regression"]
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
+library(blogdown)
 ```
 
 # R Markdown
