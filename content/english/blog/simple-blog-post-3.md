@@ -1,7 +1,7 @@
 ---
 author: King
 date: "2021-12-15T12:52:36+06:00"
-description: This is meta description
+description: This is the idea behind datasets
 image: images/blog/blog-post-1.jpg
 image_webp: images/blog/blog-post-1.webp
 title: Simple Data Analytics Post

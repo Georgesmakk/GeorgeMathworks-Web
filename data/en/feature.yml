@@ -2,7 +2,7 @@
 feature:
   enable : true
   image : images/about/georgemathworks.PNG
-  image_webp : images/about/georgemathworks.PNG
+  # image_webp : images/about/georgemathworks.PNG
   title : We’re GEORGEMATHWORKS
   content : "We are the best"
   feature_item : 

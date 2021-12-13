@@ -17,13 +17,13 @@ contact:
    #   info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: georgemathsextra@gmail.com.com"
+      info : "Email: georgemathsextra@gmail.com"
 
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "Submit" #contact form works with https://formspree.io
+    form_action : https://formspree.io/f/mgedezpg #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"

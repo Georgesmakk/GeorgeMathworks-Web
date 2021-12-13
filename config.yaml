@@ -40,7 +40,7 @@ params:
     preloader: images/logo4.png
   social:
     - icon: ti-facebook
-      link: '#'
+      link: https://www.facebook.com/Georgemathworks-100134772458502
     - icon: ti-twitter-alt
       link: '#'
     - icon: ti-youtube

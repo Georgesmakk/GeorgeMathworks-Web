@@ -16,17 +16,17 @@ service:
     # service item loop
     - name : Media &amp; Advertisement
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : The internet has become the playground of all and GeorgeMathWorks can assist you reach out to the magnitude and gain clients for your business' growth
+      content : The internet has become the playground of all and GeorgeMathWorks can assist you reach out to the magnitude and gain clients for your business' growth.
       
     # service item loop
     - name : Graphic Design
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : GeorgeMathWorks provides quality graphic designs that you can use for marketing your business to the world and reach supportive customers
+      content : GeorgeMathWorks provides quality graphic designs that you can use for marketing your business to the world and reach supportive customers.
       
     # service item loop
     - name : Apps Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : The increasing demand of effectiveness and time saving has led to the demand of apps. GeorgeMathWorks develops simple interactive apps that can are easy to use. Describe the challenge,get the solution from us.
+      content : The increasing demand of effectiveness and time saving has led to the demand of apps. GeorgeMathWorks develops simple interactive apps that are easy to use. Describe the challenge,get the solution from us.
       
     # service item loop
    # - name : Networking
