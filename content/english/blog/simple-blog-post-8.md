@@ -1,18 +1,20 @@
 ---
-author: John Doe
+author: The King
 date: "2018-09-12T14:51:12+06:00"
-description: This is meta description
-image: images/blog/blog-post-2.jpg
-image_webp: images/blog/blog-post-2.webp
-title: Are You Doing the Right Way
+description: Time is priceless.
+image: images/blog/blog-post-3.jpg
+image_webp: images/blog/blog-post-3.webp
+title: Time Explained.(Wisdom)
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Many are times that we sit around complaining and blaming what we lack in our lives. Sometimes it is not what we lack that limits us but rather what we have and just don't know how to use and when to use them.Ideas don't come out fully formed but they grow with time, however it is vital to overcome hesitation and get started.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+> The difference between time and money is that, with money you always know how much you have left.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+Everyday is a gift and the choices we make in each one can either make us or destroy us in the near future thus one should use their time wisely and choose correctly.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+> We all need to escape the prisons of our own negative thoughts, jails of "i can't do it","i will do it later","its bigger than me". Doubt and fear only eats away the best of you. FIGHT those.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Let's know that time is the reason why everything doesn't happen all at once. One step at a time in the right direction always gets you somewhere better than yesterday
+
+> Never wish to be someone else but rather a better version of yourself.You are the best.
