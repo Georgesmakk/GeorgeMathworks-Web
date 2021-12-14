@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/kingTrig.PNG
       categories : ["MATHEMATICS TUTORIALS"]
       content : Mathematics being the backbone of all science,GeorgeMathWorks provides tutorials and intervention methods to ensure that students understand the subject.
-      link : "https://themefisher.com"
+      link : https://www.youtube.com/channel/UCgRIsTea1tOuRdtXSfE2JXQ
       
     # portfolio item loop
     - name : Data Analytics
@@ -17,7 +17,7 @@ portfolio:
       image_webp : images/portfolio/panels.PNG
       categories : ["DATA ANALYTICS"]
       content : Numbers confess
-      link : ""
+      link : "#"
       
     # portfolio item loop
     - name : Analytical Geometry
