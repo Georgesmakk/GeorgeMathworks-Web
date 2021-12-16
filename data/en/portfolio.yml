@@ -60,12 +60,12 @@ portfolio:
       link : https://youtu.be/hLg151BEKLE
       
     # portfolio item loop
-    - name : Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["ANNIMATIONS","DEVELOPMENT"]
-      content : We are here for you
-      link : "#"
+    - name : CUBIC POLYNOMIALS
+      image : images/portfolio/cubic1.PNG
+      image_webp : images/portfolio/cubic1.PNG
+      categories : ["MATHEMATICS TUTORIALS"]
+      content : CLICK HERE:Cubic Polynomials
+      link : https://youtu.be/gT9w5YFdo1g
       
     # portfolio item loop
     - name : Design
