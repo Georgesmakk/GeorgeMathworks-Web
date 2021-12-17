@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : King
-  #    image_webp : images/team/team-1.webp
-  #    image : images/team/team-1.jpg
+      image_webp : images/team/pic1.PNG
+      image : images/team/pic1.PNG
       designation : CEO/Founder
       content : HBSCAMT (Applied Mathematics)
       # social :

@@ -1,26 +1,26 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/georgemathworks.PNG
-  # image_webp : images/about/georgemathworks.PNG
-  title : We’re GEORGEMATHWORKS
+  image : images/about/gmw2.PNG
+  image_webp : images/about/gmw2.PNG
+  title : We’re DETERMINED
   content : "We are the best"
   feature_item : 
-    #   # feature item loop
-    # - title : SEO Optimized
-    #   icon : ti-world # themify icon pack : https://themify.me/themify-icons
-    #   content : 
+      # feature item loop
+    - title : OBJECTIVE
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : To be vibrant in solving real world business problems through the application of different skills optimally. 
     #   
-    #   # feature item loop
-    # - title : Easy Customization
-    #   icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-    # 
-    #   # feature item loop
-    # - title : SEO Optimized
-    #   icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-    #   
+      # feature item loop
+    - title : MOTIVATION
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : There is always a fast,simple and effective way of getting the job done.
+
+      # feature item loop
+    - title : GUIDE
+      icon : ti-alarm-clock # themify icon pack : https://themify.me/themify-icons
+      content : Time
+
     #   # feature item loop
     # - title : Easy Customization
     #   icon : ti-announcement # themify icon pack : https://themify.me/themify-icons

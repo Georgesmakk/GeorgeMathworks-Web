@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Data Analytics
       icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      content : In the world that has vast data generated daily, there is need to perform analytics with the obejctive of making data driven intuitive decions. GeorgeMathWorks can help you gather and analyze data for your business and as well provides tutorial on how to intepret data.
+      content : In the world that has vast data generated daily, there is need to perform analytics with the obejctive of making data driven intuitive decisions. GeorgeMathWorks can help you gather and analyze data for your business and as well provides tutorial on how to intepret data.
       
     # service item loop
     - name : Mathematics Tutorials
