@@ -37,7 +37,7 @@ params:
   post_share: yes
   preloader:
     enable: no
-    preloader: images/logo4.png
+    preloader: images/GMWlogosmall.png
   social:
     - icon: ti-facebook
       link: https://www.facebook.com/Georgemathworks-100134772458502
