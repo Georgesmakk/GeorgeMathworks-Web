@@ -12,7 +12,7 @@ params:
     expire_days: 2
   description: GEORGEMATHWORKS website
   google_analytics_id: ''
-  logo: images/logo4.png
+  logo: images/GMWlogosmall.png
   map:
     enable: no
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
