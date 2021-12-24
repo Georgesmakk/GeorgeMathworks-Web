@@ -20,12 +20,12 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Analytical Geometry
+    - name : ANALYTICAL GEOMETRY
       image : images/portfolio/ana1.PNG
       image_webp : images/portfolio/ana1.PNG
       categories : ["MATHEMATICS TUTORIALS"]
       content : CLICK HERE:Analytical Geometry exaplained.
-      link : "#"
+      link : https://youtu.be/ilYAnei99mY
       
     # portfolio item loop
     - name : SEQUENCES AND SERIES
