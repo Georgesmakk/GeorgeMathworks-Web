@@ -68,9 +68,27 @@ portfolio:
       link : https://youtu.be/gT9w5YFdo1g
       
     # portfolio item loop
+    - name : THE MIND
+      image : images/portfolio/The Mind.PNG
+      image_webp : images/portfolio/The Mind.PNG
+      categories : ["WISDOM&MOTIVATION"]
+      content : CLICK HERE
+      link : https://youtu.be/9edZzgrgn_g
+      
+    # portfolio item loop
+    - name : LIFE,COURAGE,HOPE
+      image : images/portfolio/life.PNG
+      image_webp : images/portfolio/life.PNG
+      categories : ["WISDOM&MOTIVATION"]
+      content : CLICK HERE
+      link : https://youtu.be/hFI0Gy8F4c0
+      
+    # portfolio item loop
     - name : Design
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["ANNIMATIONS", "DEVELOPMENT"]
       content : We are here for you
       link : "#"
+      
+    
