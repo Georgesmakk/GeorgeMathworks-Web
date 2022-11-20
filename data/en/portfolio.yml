@@ -3,7 +3,8 @@ portfolio:
   enable : true
   title : Our Works
   portfolio_item :
-    # portfolio item loop
+  
+      # portfolio item loop
     - name : Trigonometry
       image : images/portfolio/kingTrig.PNG
       image_webp : images/portfolio/kingTrig.PNG
@@ -60,12 +61,29 @@ portfolio:
       link : https://youtu.be/hLg151BEKLE
       
     # portfolio item loop
+    - name : CUBIC FUNCTION
+      image : images/portfolio/cubic2.jpg
+      image_webp : images/portfolio/cubic2.jpg
+      categories : ["MATHEMATICS TUTORIALS"]
+      content : CLICK HERE
+      link : https://youtu.be/Z65KAQA_Nj8
+      
+      
+    # portfolio item loop
     - name : CUBIC POLYNOMIALS
       image : images/portfolio/cubic1.PNG
       image_webp : images/portfolio/cubic1.PNG
       categories : ["MATHEMATICS TUTORIALS"]
       content : CLICK HERE:Cubic Polynomials
       link : https://youtu.be/gT9w5YFdo1g
+      
+    # portfolio item loop
+    - name : FINISH THE RACE
+      image : images/portfolio/race.jpg
+      image_webp : images/portfolio/race.jpg
+      categories : ["WISDOM&MOTIVATION"]
+      content : CLICK HERE
+      link : https://youtu.be/x99wfJdsrN0
       
     # portfolio item loop
     - name : THE MIND
