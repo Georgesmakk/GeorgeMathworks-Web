@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/bannerfine.PNG"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Experience Quality Services"
-  content : "GeorgeMathworks provides quality services and values all clients. We are determined to assist in any way possible to get you what you desire. "
+  content : "GMW provides quality services and values all clients. We are determined to assist in any way possible to get you what you desire. "
   button:
     enable : true
     label : "Explore Us"
