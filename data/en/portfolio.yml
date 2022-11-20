@@ -68,7 +68,6 @@ portfolio:
       content : CLICK HERE
       link : https://youtu.be/Z65KAQA_Nj8
       
-      
     # portfolio item loop
     - name : CUBIC POLYNOMIALS
       image : images/portfolio/cubic1.PNG
