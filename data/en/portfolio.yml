@@ -85,16 +85,16 @@ portfolio:
       
     # portfolio item loop
     - name : THE MIND
-      image : images/portfolio/The Mind.PNG
-      image_webp : images/portfolio/The Mind.PNG
+      image : images/portfolio/mind2.PNG
+      image_webp : images/portfolio/mind2.PNG
       categories : ["WISDOM&MOTIVATION"]
       content : CLICK HERE
       link : https://youtu.be/9edZzgrgn_g
       
     # portfolio item loop
     - name : LIFE,COURAGE,HOPE
-      image : images/portfolio/life.PNG
-      image_webp : images/portfolio/life.PNG
+      image : images/portfolio/courage1.PNG
+      image_webp : images/portfolio/courage1.PNG
       categories : ["WISDOM&MOTIVATION"]
       content : CLICK HERE
       link : https://youtu.be/hFI0Gy8F4c0
