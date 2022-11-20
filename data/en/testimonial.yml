@@ -9,14 +9,14 @@ testimonial:
       # image : images/client/client-1.jpg
       # image_webp : images/client/client-1.webp
       date : Dec 10, 2021
-      content :  GMW is the best. I managed to updrade my matric mathematics results with the incredible lessons from GMW.
+      content :  GMW is the best. I managed to updrade my matric mathematics results with the incredible lessons and words of wisdom from GMW.
       
     # testimonial item loop
     - name : Tebogo
       #image : images/client/client-2.jpg
       #image_webp : images/client/client-2.webp
       date : Nov 15, 2022
-      content : I had challenges with statistics courses for my masters but with the patients and quality assistance from GMW i passed well and i can recommend others to contact GMW.
+      content : I had challenges with statistics courses for my masters but with the patience and quality assistance from GMW i passed well and i can recommend others to contact GMW.
     #   
     # # testimonial item loop
     # - name : Lemos Kail
