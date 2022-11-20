@@ -18,8 +18,8 @@ skill:
     - name :  Annimation Design
       percent : 80%
       
-    # - name :  IOS Development
-    #   percent : 95%
+    - name :  APP Development
+      percent : 90%
     #   
     # # skill item loop
     # - name :  Android Development

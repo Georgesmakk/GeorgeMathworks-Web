@@ -100,9 +100,9 @@ portfolio:
       link : https://youtu.be/hFI0Gy8F4c0
       
     # portfolio item loop
-    - name : Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+    - name : GMW CALCULATOR
+      image : images/portfolio/GMWCalculator.PNG
+      image_webp : images/portfolio/GMWCalculator.PNG
       categories : ["ANNIMATIONS", "DEVELOPMENT"]
       content : We are here for you
       link : "#"

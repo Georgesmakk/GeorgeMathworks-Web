@@ -54,7 +54,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 Powered by [Gmw](https://georgemathworksweb.netlify.app/)
+    copyright: Copyright &copy; 2021 Powered by [GMW](https://georgemathworksweb.netlify.app/)
     home: Home
     languageCode: en-us
     languageName: En
