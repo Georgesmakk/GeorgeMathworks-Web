@@ -3,7 +3,6 @@ portfolio:
   enable : true
   title : Our Works
   portfolio_item :
-  
       # portfolio item loop
     - name : Trigonometry
       image : images/portfolio/kingTrig.PNG
@@ -77,14 +76,6 @@ portfolio:
       link : https://youtu.be/gT9w5YFdo1g
       
     # portfolio item loop
-    - name : FINISH THE RACE
-      image : images/portfolio/race.PNG
-      image_webp : images/portfolio/race.PNG
-      categories : ["WISDOM&MOTIVATION"]
-      content : CLICK HERE
-      link : https://youtu.be/x99wfJdsrN0
-      
-    # portfolio item loop
     - name : THE MIND
       image : images/portfolio/The Mind.PNG
       image_webp : images/portfolio/The Mind.PNG
@@ -99,6 +90,14 @@ portfolio:
       categories : ["WISDOM&MOTIVATION"]
       content : CLICK HERE
       link : https://youtu.be/hFI0Gy8F4c0
+      
+    # portfolio item loop
+    - name : FINISH THE RACE
+      image : images/portfolio/race.PNG
+      image_webp : images/portfolio/race.PNG
+      categories : ["WISDOM&MOTIVATION"]
+      content : CLICK HERE
+      link : https://youtu.be/x99wfJdsrN0
       
     # portfolio item loop
     - name : Design
