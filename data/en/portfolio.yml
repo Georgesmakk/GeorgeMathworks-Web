@@ -44,7 +44,7 @@ portfolio:
       link : https://youtu.be/7S9TCWWeItk
       
     # portfolio item loop
-    - name : GEORGEMATHWORKS HIGHLIGHTS
+    - name : GMW HIGHLIGHTS
       image : images/portfolio/georgeint.PNG
       image_webp : images/portfolio/georgeint.PNG
       categories : ["ANNIMATIONS"]

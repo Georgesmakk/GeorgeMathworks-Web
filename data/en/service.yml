@@ -6,27 +6,27 @@ service:
     # service item loop
     - name : Data Analytics
       icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      content : In the world that has vast data generated daily, there is need to perform analytics with the obejctive of making data driven intuitive decisions. GeorgeMathWorks can help you gather and analyze data for your business and as well provides tutorial on how to intepret data.
+      content : In the world that has vast data generated daily, there is need to perform analytics with the obejctive of making data driven intuitive decisions. GMW can help you gather and analyze data for your business and as well provides tutorial on how to intepret data.
       
     # service item loop
     - name : Mathematics Tutorials
       icon : ti-write # themify icon pack : https://themify.me/themify-icons
-      content : GeorgeMathworks offers quality mathematics tutorials (Matric mathematics, Engineering Mathematics, Advanced Calculus and Algebra, Mathematics for Economics and Business,Statistics)
+      content : GMW offers quality mathematics tutorials (Matric mathematics, Engineering Mathematics, Advanced Calculus and Algebra, Mathematics for Economics and Business,Statistics)
       
     # service item loop
     - name : Media &amp; Advertisement
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : The internet has become the playground of all and GeorgeMathWorks can assist you reach out to the magnitude and gain clients for your business' growth.
+      content : The internet has become the playground of all and GMW can assist you reach out to the magnitude and gain clients for your business' growth.
       
     # service item loop
     - name : Graphic Design
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : GeorgeMathWorks provides quality graphic designs that you can use for marketing your business to the world and reach supportive customers.
+      content : GMW provides quality graphic designs that you can use for marketing your business to the world and reach supportive customers.
       
     # service item loop
     - name : Apps Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : The increasing demand of effectiveness and time saving has led to the demand of apps. GeorgeMathWorks develops simple interactive apps that are easy to use. Describe the challenge,get the solution from us.
+      content : The increasing demand of effectiveness and time saving has led to the demand of apps. GMW develops simple interactive apps that are easy to use. Describe the challenge,get the solution from us.
       
     # service item loop
    # - name : Networking

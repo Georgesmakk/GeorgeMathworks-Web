@@ -1,16 +1,16 @@
 baseURL: https://georgemathworks.netlify.app/
-title: GeorgeMathWorks
+title: GMW
 theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
 disqusShortname: ''
 disableLanguages: []
 params:
-  author: GeorgeMathWorks
+  author: GMW
   cookies:
     enable: no
     expire_days: 2
-  description: GEORGEMATHWORKS website
+  description: GMW website
   google_analytics_id: ''
   logo: images/GMWlogosmall.png
   map:
@@ -54,7 +54,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 Powered by [GeorgeMathWorks](https://georgemathworksweb.netlify.app/)
+    copyright: Copyright &copy; 2021 Powered by [Gmw](https://georgemathworksweb.netlify.app/)
     home: Home
     languageCode: en-us
     languageName: En
