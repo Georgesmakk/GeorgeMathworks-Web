@@ -62,8 +62,8 @@ portfolio:
       
     # portfolio item loop
     - name : CUBIC FUNCTION
-      image : images/portfolio/cubic2.jpg
-      image_webp : images/portfolio/cubic2.jpg
+      image : images/portfolio/cubic2.PNG
+      image_webp : images/portfolio/cubic2.PNG
       categories : ["MATHEMATICS TUTORIALS"]
       content : CLICK HERE
       link : https://youtu.be/Z65KAQA_Nj8
@@ -79,8 +79,8 @@ portfolio:
       
     # portfolio item loop
     - name : FINISH THE RACE
-      image : images/portfolio/race.jpg
-      image_webp : images/portfolio/race.jpg
+      image : images/portfolio/race.PNG
+      image_webp : images/portfolio/race.PNG
       categories : ["WISDOM&MOTIVATION"]
       content : CLICK HERE
       link : https://youtu.be/x99wfJdsrN0
