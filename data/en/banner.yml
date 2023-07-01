@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/bannerfine.PNG"
   bg_image : "images/backgrounds/bannerfine.PNG"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience Quality Services"
-  content : "GMW provides quality services and values all clients. We are determined to assist in any way possible to get you what you desire. "
+  title : "WELCOME TO GMW, ENJOY QUALITY SERVICES"
+  content : "GMW PROVIDES QUALITY FACE TO FACE AND ONLINE MATHEMATICS TUTORING AND STATISTICAL ANALYSIS SERVICES. We are determined to assist in any way possible to get you what you desire.Client's money and time are valued by GMW as it is built on the desire to see different people and businesses upgrade themselves. "
   button:
     enable : true
     label : "Explore Us"
