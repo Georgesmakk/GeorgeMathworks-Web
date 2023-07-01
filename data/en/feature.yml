@@ -9,12 +9,12 @@ feature:
       # feature item loop
     - title : OBJECTIVE
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : To be vibrant in solving real world business problems through the application of different skills optimally. 
+      content : To be vibrant in tutoring and solving real world business problems through the application of different skills optimally.  
     #   
       # feature item loop
     - title : MOTIVATION
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : There is always a fast,simple and effective way of getting the job done.
+      content : There is always a fast,simple, understandable and effective way of getting the job done.
 
       # feature item loop
     - title : GUIDE

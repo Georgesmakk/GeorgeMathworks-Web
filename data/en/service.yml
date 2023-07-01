@@ -6,12 +6,12 @@ service:
     # service item loop
     - name : Data Analytics
       icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      content : In the world that has vast data generated daily, there is need to perform analytics with the obejctive of making data driven intuitive decisions. GMW can help you gather and analyze data for your business and as well provides tutorial on how to intepret data.
+      content : In the world that has vast data generated daily, there is need to perform analytics with the objective of making data driven intuitive decisions. GMW can help you gather and analyze data for your business and as well provides tutorials on how to intepret data.
       
     # service item loop
     - name : Mathematics Tutorials
       icon : ti-write # themify icon pack : https://themify.me/themify-icons
-      content : GMW offers quality mathematics tutorials (Matric mathematics, Engineering Mathematics, Advanced Calculus and Algebra, Mathematics for Economics and Business,Statistics)
+      content : GMW offers quality mathematics face to face and online tutorials (Matric mathematics, Engineering Mathematics, Advanced Calculus and Algebra, Mathematics for Economics and Business,Statistics)
       
     # service item loop
     - name : Media &amp; Advertisement
