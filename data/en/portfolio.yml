@@ -103,7 +103,15 @@ portfolio:
     - name : GMW CALCULATOR
       image : images/portfolio/GMWCalculator.PNG
       image_webp : images/portfolio/GMWCalculator.PNG
-      categories : ["ANNIMATIONS", "DEVELOPMENT"]
+      categories : ["DEVELOPMENT"]
+      content : We are here for you
+      link : "#"
+      
+    # portfolio item loop
+    - name : GMW FLYER
+      image : images/portfolio/GMWFLYER.PNG
+      image_webp : images/portfolio/GMWFLYER.PNG
+      categories : ["GRAPHICS DESGINS""]
       content : We are here for you
       link : "#"
       
