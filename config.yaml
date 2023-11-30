@@ -88,15 +88,8 @@ Languages:
           url: https://wa.link/6c02rd
         - name: CustomerDetails
           url: https://forms.gle/WDPrv8JkR8JaekC16
-    weight: 1
-  # fr:
-  #   contentDir: content/french
-  #   copyright: Copyright &copy; 2021 Powered by [GeorgeMathWorks](https://georgemathworksweb.netlify.app/)
-  #   home: Accueil
-  #   languageCode: fr-fr
-  #   languageName: Fr
-  #   menu:
-  #     main:
+          weight: 1
+  
         - name: Review
           url: https://www.bark.com/en/za/company/gmwgeorgemathworks/nqjBl/?show_reviews=true
           weight: 1
