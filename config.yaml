@@ -89,7 +89,6 @@ Languages:
         - name: CustomerDetails
           url: https://forms.gle/WDPrv8JkR8JaekC16
           weight: 1
-  
         - name: Review
           url: https://www.bark.com/en/za/company/gmwgeorgemathworks/nqjBl/?show_reviews=true
           weight: 1
