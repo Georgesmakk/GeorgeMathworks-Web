@@ -19,8 +19,8 @@ testimonial:
       content : I had challenges with statistics courses for my masters but with the patience and quality assistance from GMW i passed well and i can recommend others to contact GMW.
     #   
     # # testimonial item loop
-    # - name : Lemos Kail
+     - name : BARKS REVIEWS
     #   image : images/client/client-1.jpg
     #   image_webp : images/client/client-1.webp
     #   date : Dec 26, 2018
-    #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+       link : <a href='https://www.bark.com/en/za/company/gmwgeorgemathworks/nqjBl/' target='_blank' class='bark-widget' data-type='reviews' data-id='nqjBl' data-image='medium-navy' data-version='3.0'>GMW(GEORGEMATHWORKS)</a><script type='text/javascript' src='https://d3a1eo0ozlzntn.cloudfront.net/assets/js/frontend-v2/widgets-v2.24a197bed6.v2.js' defer></script>
