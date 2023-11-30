@@ -110,8 +110,8 @@ portfolio:
     # portfolio item loop
     - name : GMW FLYER
       image : images/portfolio/GMWFLYER.PNG
-      image_webp : images/portfolio/GMWFLYER1.PNG
-      categories : ["GRAPHICS DESGINS""]
+      image_webp : images/portfolio/GMWFLYER.PNG
+      categories : ["GRAPHICS DESiGNS"]
       content : We are here for you
       link : "#"
       
