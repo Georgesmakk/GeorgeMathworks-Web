@@ -111,7 +111,7 @@ portfolio:
     - name : GMW FLYER
       image : images/portfolio/GMWFLYER.PNG
       image_webp : images/portfolio/GMWFLYER.PNG
-      categories : ["GRAPHICS DESiGNS"]
+      categories : ["GRAPHICS DESiGN"]
       content : We are here for you
       link : "#"
       

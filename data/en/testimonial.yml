@@ -17,10 +17,10 @@ testimonial:
       #image_webp : images/client/client-2.webp
       date : Nov 15, 2022
       content : I had challenges with statistics courses for my masters but with the patience and quality assistance from GMW i passed well and i can recommend others to contact GMW.
-    #   
-    # # testimonial item loop
-    # - name : Lemos Kail
-    #   image : images/client/client-1.jpg
-    #   image_webp : images/client/client-1.webp
-    #   date : Dec 26, 2018
-    #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      
+    # testimonial item loop
+      #name : Lemos Kail
+      #image : images/client/client-1.jpg
+      #image_webp : images/client/client-1.webp
+      #date : Dec 26, 2018
+      #content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
