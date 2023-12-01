@@ -86,12 +86,13 @@ Languages:
           weight: 8
         - name: Enquiries
           url: https://wa.link/6c02rd
-        - name: CustomerDetails
+          weight: 9
+        - name: Customer_Request_Form
           url: https://forms.gle/WDPrv8JkR8JaekC16
-          weight: 1
+          weight: 10
         - name: Reviews
           url: https://www.bark.com/en/za/company/gmwgeorgemathworks/nqjBl/?show_reviews=true
-          weight: 1
+          weight: 11
   #       - name: un service
   #         url: '#services'
   #         weight: 2
