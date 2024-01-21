@@ -49,7 +49,7 @@ portfolio:
       image_webp : images/portfolio/georgeint.PNG
       categories : ["ANNIMATIONS"]
       content : CLICK HERE:We design Quality Annimations
-      link : https://youtu.be/BeZJd6jIR20
+      link : https://youtu.be/XVd32Ouayps?si=4BOAk6hR-ihNErJY
       
     # portfolio item loop
     - name : LAWS OF EXPONENTS
